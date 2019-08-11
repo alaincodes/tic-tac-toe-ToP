@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe-top",
+  "version": "1.0.0",
+  "description": "tic tac toe challenge from ToP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaincodes/tic-tac-toe-ToP.git"
+  },
+  "author": "alaincodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alaincodes/tic-tac-toe-ToP/issues"
+  },
+  "homepage": "https://github.com/alaincodes/tic-tac-toe-ToP#readme"
+}
